@@ -1,0 +1,1 @@
+C'est une implémentation de l'algorithme BlumBlumShub permettant la génération de bit (et donc de nombre) pseudo-aléatoire. C'est un générateur pseudo-aléatoire cryptographique, contrairement au habituel générateur pseudo-aléatoire à congruence linéraire (du type rand(), de la bibliothèque standard C).Il est cependant un peu lent.
